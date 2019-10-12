@@ -1,0 +1,71 @@
+
+body { 
+    background: url(../images/pexels-photo-370799.jpeg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+header {
+    margin-left: 15%;
+    margin-top: 10px;
+}
+
+h1 {
+    
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+
+.container {
+    height: 80vh;
+    color: black;
+    font-size: 15px;
+}
+
+.row {
+    padding-top: 20px;
+}
+
+.instructions {
+    background-color: white;
+    margin-left: 15px;
+}
+
+#theSum {
+    background-color: white;
+    height: 15vh;
+}
+
+.winLoss {
+    height: 15vh;
+    background-color: white;
+}
+
+#crystal1 {
+    height: 10vh;
+    
+}
+
+#crystal2 {
+    height: 10vh;
+    
+}
+
+#crystal3 {
+    height: 10vh;
+    
+}
+
+#crystal4 {
+    height: 10vh;
+    
+}
+
+#scoreText {
+    background-color: white;
+}
+
+#totalSum {
+    height: 15vh;
+    background-color: white;
+}
