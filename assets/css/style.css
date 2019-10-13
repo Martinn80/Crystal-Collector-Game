@@ -1,6 +1,6 @@
 
 body { 
-    background: url(../images/pexels-photo-370799.jpeg) no-repeat center center fixed; 
+    background: url(../images/108819.jpg) no-repeat center center fixed; 
     background-size: cover;
 }
 
@@ -18,8 +18,8 @@ h1 {
 
 .container {
     height: 80vh;
-    color: black;
-    font-size: 15px;
+    color: white;
+    font-size: 17px;
 }
 
 .row {
@@ -27,18 +27,23 @@ h1 {
 }
 
 .instructions {
-    background-color: white;
     margin-left: 15px;
 }
 
 #theSum {
-    background-color: white;
     height: 15vh;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h5 {
+    padding-top: 15px;
 }
 
 .winLoss {
     height: 15vh;
-    background-color: white;
+    
 }
 
 #crystal1 {
@@ -62,10 +67,15 @@ h1 {
 }
 
 #scoreText {
-    background-color: white;
+    height: 5vh;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 15px;
 }
 
 #totalSum {
-    height: 15vh;
-    background-color: white;
+    height: 10vh;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 35px;
 }
